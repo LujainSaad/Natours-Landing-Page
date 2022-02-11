@@ -1,4 +1,4 @@
-# Natours-Exciting-tours-for-adventurous-people
+# Natours Landing Page
 🌿 https://lujainsaad.github.io/Natours-Exciting-tours-for-adventurous-people/
 
 
