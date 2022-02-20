@@ -1,5 +1,5 @@
 # Natours Landing Page
-🌿 https://lujainsaad.github.io/Natours-Exciting-tours-for-adventurous-people/
+🌿 https://lujainsaad.github.io/Natours-Landing-Page/
 
 
 
